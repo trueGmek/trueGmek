@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Piotr Sikorski
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unity3D
-- 💞️ I’m looking to collaborate on games
+- I write a small blog called: [writing-to-learn.dev](writing-to-learn.dev)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piotr-sikorski-69543222b/)
 
 <!---
