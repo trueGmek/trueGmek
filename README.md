@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piotr Sikorski
-- I write a small blog called: [writing-to-learn.dev](writing-to-learn.dev)
+- I write a small blog called [writing-to-learn.dev](https://writing-to-learn.dev/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piotr-sikorski-69543222b/)
 
 <!---
